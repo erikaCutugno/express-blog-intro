@@ -1,0 +1,20 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "Blog",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikaCutugno/express-blog-intro.git"
+  },
+  "author": "Erika Cutugno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikaCutugno/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/erikaCutugno/express-blog-intro#readme"
+}
